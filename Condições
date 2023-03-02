@@ -1,0 +1,8 @@
+Se Delta for negativo exibir a resposta:
+     Não existem raízes reais
+
+Se Delta for igual a zero
+Existe apenas um valor de raiz, portanto apenas o valor de x1 deve ser calculado e exibido   para x1 e x2
+
+Se Delta for maior que zero
+      Calcular exibir os valores para x e x2
